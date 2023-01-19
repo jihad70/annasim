@@ -1,0 +1,39 @@
+h1 {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: bisque;
+    text-align: center;
+    background-size: cover;
+}
+
+
+.sagor {
+    color: darkblue;
+    text-decoration-style: double;
+}
+
+li {
+    color: blueviolet;
+    border: 1px solid green;
+    margin: 20px;
+}
+
+ol {
+    /* color: beige; */
+}
+
+.mamun {
+    background-image: url('111111.jpg');
+    border: 1px dotted red;
+    text-align: center;
+    /* background-color: aqua; */
+    border-radius: 5px;
+    margin: 10px;
+    padding: 20px;
+
+
+}
+
+audio {
+    adu
+}
